@@ -1,0 +1,7 @@
+﻿  ConsoleApplication2.cpp
+c:\users\administrator\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(41): warning C4101: 'i': unreferenced local variable
+c:\users\administrator\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(140): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'WAVEHDR *'
+c:\users\administrator\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(158): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'WAVEHDR *'
+c:\users\administrator\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(187): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'WAVEHDR *'
+c:\users\administrator\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(177): warning C4715: 'decodeThreadProc': not all control paths return a value
+  ConsoleApplication2.vcxproj -> C:\Users\Administrator\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe
